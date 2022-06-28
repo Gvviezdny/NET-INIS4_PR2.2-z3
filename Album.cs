@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NET_INIS4_PR2._2_z3
+namespace NET_INIS4_PR2._2_z4
 {
     public class Album : INotifyPropertyChanged
     {
